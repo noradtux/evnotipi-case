@@ -6,7 +6,7 @@ it I suggest putting supports into the recessed screw holes.
 
 Additional hardware required is:
 - an angled USB adapter, like https://www.reichelt.de/usb-2-0-adapter-a-stecker-a-buchse-90-gewinkelt-schwarz-n-ccgp60930bk-p243734.html
-- an micro USB OTG adapter
+- a micro USB OTG adapter
 - a male DB9 connector
 - an OBD2 to DB9 cable
 - Optionally you can install SMA pigtails to cleanly connect external antennas to the LTE adapter
