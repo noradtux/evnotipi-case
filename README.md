@@ -1,6 +1,6 @@
 # A case for EVnotiPi
 
-Holds Raspberry Pi Zero W and hats like the PiOBD2Hat and the PiCAN. 6 M3 screws are needed.
+Holds Raspberry Pi Zero W and hats like the PiOBD2Hat and the PiCAN. 6 M2.5 screws are needed.
 I recommend to print this from PETG. Layer height is not important, if your slicer supports
 it I suggest putting supports into the recessed screw holes.
 
